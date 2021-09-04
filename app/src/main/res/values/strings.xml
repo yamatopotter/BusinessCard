@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="label_business_cards">Cartão de Visita</string>
+    <string name="label_description_new_card">Novo Cartão</string>
+    <string name="label_hint_nome">Nome</string>
+    <string name="label_hint_telefone">Telefone</string>
+    <string name="label_hint_email">E-mail</string>
+    <string name="label_hint_empresa">Empresa</string>
+    <string name="label_hint_cor">Cor</string>
+    <string name="label_btn_confirmar">Confirmar</string>
+    <string name="label_show_sucess">Cartão cadastrado com sucesso.</string>
+    <string name="label_share">Compartilhar</string>
+    <string name="label_edit_card">Edição do Cartão</string>
+    <string-array name="card_colors">
+        <item>#f1e7fe</item>
+        <item>#d5b8ff</item>
+        <item>#f1a9a0</item>
+        <item>#89c4f4</item>
+        <item>#23cba7</item>
+        <item>#00e640</item>
+        <item>#f7ca18</item>
+        <item>#ffff7e</item>
+        <item>#e87e04</item>
+        <item>#fabe58</item>
+        <item>#e8e8e8</item>
+        <item>#d2d7d3</item>
+    </string-array>
+</resources>
